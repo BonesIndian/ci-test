@@ -22,4 +22,24 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+  <contributors>
+    <contributor>
+      <name>Bones</name>
+      <email>BonesIndian@gmail.com</email>
+      <url>http://www.google.com</url>
+      <organization>Bones Indian</organization>
+      <organizationUrl>http://www.google.com</organizationUrl>
+      <roles>
+        <role>developer</role>
+        <role>maintainer</role>
+        <role>sushi lover</role>
+      </roles>
+      <timezone>America/New York</timezone>
+      <properties>
+        <gtalk>BonesIndian@gmail.com</gtalk>
+	<picUrl>http://img.ehowcdn.com/article-new-thumbnail/ehow/images/a04/a2/lk/adopt-black-lab-800x800.jpg</picUrl>
+      </properties>
+    </contributor>
+  </contributors>
 </project>
